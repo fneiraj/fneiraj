@@ -1,6 +1,6 @@
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fneiraj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12276050) [![My personal blog](https://img.shields.io/badge/📝%20My%20blog-8A2BE2)](https://fneira.dev)
-
+<!--
 ## 💻 Tech Stack
 
 ### Java
